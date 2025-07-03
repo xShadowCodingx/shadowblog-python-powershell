@@ -1,3 +1,5 @@
+![Powershell in Python](https://blog.shadowcoding.com/powershell-in-python/powershell-in-python-cover-image.jpg)
+
 # ShadowBlog: Python PowerShell Command Runner
 
 This project demonstrates how to run PowerShell commands from within a Python application. It is a companion example for the "ShadowBlog" post, showing basic and multi-command execution using Python's built-in libraries.
