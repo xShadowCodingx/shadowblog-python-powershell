@@ -1,4 +1,4 @@
-![Powershell in Python](https://blog.shadowcoding.com/powershell-in-python/powershell-in-python-cover-image.jpg)
+![Powershell in Python](https://blog.shadowcoding.com/blog-images/powershell-in-python/powershell-in-python-cover-image.jpg)
 
 # ShadowBlog: Python PowerShell Command Runner
 
